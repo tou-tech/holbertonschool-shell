@@ -1,1 +1,2 @@
 Projet Shell Basics
+# permissions
