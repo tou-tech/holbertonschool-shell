@@ -1,1 +1,2 @@
-@ubuntu:/tmp/h$
+#!/bin/bash
+whoami
