@@ -1,4 +1,2 @@
 #!/bin/bash
-grep ^[[:alpha:]] /etc/ssh/sshd_config /etc/passwd >> 18-letteronly
-echo grep ^[[:alpha:]] /etc/ssh/sshd_config /etc/passwd
 grep "^[[:alpha:]]" /etc/ssh/sshd_config
